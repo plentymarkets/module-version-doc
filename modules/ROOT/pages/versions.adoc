@@ -1,6 +1,6 @@
 = Plentymarkets current active modules in early
 
 // This paragraph has the preamble class by default.
-The list below has all the modules active in beta7 branch with their corresponding versions.
+The list below has all the modules active in early branch with their corresponding versions.
 
 include::partial$versions_list.adoc[]
