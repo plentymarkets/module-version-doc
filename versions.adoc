@@ -1,6 +1,6 @@
 * plentymarkets/account @ v0.19.0
 * plentymarkets/address-design @ v1.1.5
-* plentymarkets/amazon @ v1.13.19
+* plentymarkets/amazon @ v1.13.20
 * plentymarkets/amazon-flatfiles @ v1.0.1
 * plentymarkets/amazon-inbound-shipment @ v1.0.4
 * plentymarkets/amazon-vcs @ v1.16.8
