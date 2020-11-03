@@ -47,6 +47,6 @@
 * plentymarkets/suggestion @ v1.1.2
 * plentymarkets/system-accounting @ 1.4.68
 * plentymarkets/warehouse @ v0.19.18
-* plentymarkets/webshop @ 0.10.3
+* plentymarkets/webshop @ 0.10.4
 * plentymarkets/wizard @ 2.3.15
 * plentymarkets/zalando @ v3.0.8
