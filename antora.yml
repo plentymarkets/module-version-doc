@@ -1,4 +1,8 @@
 name: plentyModules
 title: plentyModules
 version: beta7
+<<<<<<< HEAD
 start_page: ROOT:versions.adoc
+=======
+start_page: ROOT:versions.adoc
+>>>>>>> bb72107c18137014e5533588195a89a986ae6f72
