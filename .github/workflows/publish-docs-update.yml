@@ -10,7 +10,7 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-      - env:
+        env:
           API_TOKEN_GITHUB: ${{ secrets.PLENTY_ACTION_TOKEN }}
             
       - name: Rebuild site
