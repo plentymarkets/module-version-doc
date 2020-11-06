@@ -8,9 +8,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     
-    steps:
-      - uses: actions/checkout@v2
-            
+    steps:  
       - name: Rebuild site
         run: |
           curl -X POST https://api.github.com/repos/plentymarkets/plenty-developers-docs/dispatches \
