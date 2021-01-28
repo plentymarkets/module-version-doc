@@ -1,4 +1,4 @@
-= Plentymarkets current active modules in early
+= plentymarkets current active modules in early
 
 // This paragraph has the preamble class by default.
 The list below has all the modules active in early branch with their corresponding versions.
