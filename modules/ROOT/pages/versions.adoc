@@ -1,4 +1,4 @@
-= Plentymarkets current active modules in beta7
+= plentymarkets current active modules in beta7
 
 // This paragraph has the preamble class by default.
 The list below has all the modules active in beta7 branch with their corresponding versions.
