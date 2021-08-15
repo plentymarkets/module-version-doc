@@ -1,4 +1,4 @@
-* plentymarkets/account @ v0.22.13
+* plentymarkets/account @ v0.22.14
 * plentymarkets/address-design @ v1.1.5
 * plentymarkets/amazon @ v1.17.8
 * plentymarkets/amazon-flatfiles @ v1.0.4
