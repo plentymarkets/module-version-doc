@@ -12,6 +12,7 @@
 * plentymarkets/board @ v1.3.7
 * plentymarkets/bol @ v1.6.0
 * plentymarkets/catalog @ 1.35.3
+* plentymarkets/clearing-account @ 0.5.2
 * plentymarkets/content-builder @ 1.3.3
 * plentymarkets/content-cache @ dev-beta7
 * plentymarkets/core @ v1.3.8
