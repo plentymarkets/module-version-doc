@@ -53,6 +53,6 @@
 * plentymarkets/system-accounting @ v1.7.35
 * plentymarkets/validation @ v0.1.5
 * plentymarkets/warehouse @ v0.19.41
-* plentymarkets/webshop @ 0.25.0
+* plentymarkets/webshop @ 0.27.0
 * plentymarkets/wizard @ 2.3.20
 * plentymarkets/zalando @ v3.6.8
