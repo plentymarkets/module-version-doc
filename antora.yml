@@ -2,3 +2,5 @@ name: plentyModules
 title: plentyModules
 version: early
 start_page: ROOT:versions.adoc
+nav:
+- modules/ROOT/nav.adoc
