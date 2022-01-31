@@ -57,6 +57,7 @@
 * plentymarkets/shop-builder @ 2.8.2
 * plentymarkets/shopify @ dev-beta7
 * plentymarkets/shopping24 @ 1.0.1
+* plentymarkets/shoppingcom @ 1.0.0
 * plentymarkets/status-alarm @ 1.0.34
 * plentymarkets/stock @ 0.0.13
 * plentymarkets/suggestion @ v1.1.2
