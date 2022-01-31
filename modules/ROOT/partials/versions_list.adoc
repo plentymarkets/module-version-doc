@@ -57,6 +57,7 @@
 * plentymarkets/stock @ 0.0.13
 * plentymarkets/suggestion @ v1.1.2
 * plentymarkets/system-accounting @ v1.7.40
+* plentymarkets/twenga @ 1.0.0
 * plentymarkets/validation @ v0.1.8
 * plentymarkets/warehouse @ v0.19.63
 * plentymarkets/webshop @ 0.28.14
