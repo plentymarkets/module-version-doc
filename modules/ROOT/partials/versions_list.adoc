@@ -31,6 +31,7 @@
 * plentymarkets/forum @ v0.1.24
 * plentymarkets/fulfillment @ v2.0.16
 * plentymarkets/geizhals @ 1.0.1
+* plentymarkets/guenstiger @ 1.0.0
 * plentymarkets/listing @ v1.20.3
 * plentymarkets/live-shopping @ 1.1.3
 * plentymarkets/mail @ v0.15.0
