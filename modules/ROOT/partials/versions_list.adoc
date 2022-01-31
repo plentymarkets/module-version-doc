@@ -25,6 +25,7 @@
 * plentymarkets/data-purge @ v0.2.6
 * plentymarkets/ebay @ v1.18.6
 * plentymarkets/ebay-fulfillment @ v1.1.27
+* plentymarkets/econda @ 1.0.0
 * plentymarkets/elastic-sync @ v1.48.15
 * plentymarkets/email-assistant @ v0.1.5
 * plentymarkets/external-keyfigures @ 0.1.11
