@@ -10,6 +10,7 @@
 * plentymarkets/basic-assistant @ v0.0.20
 * plentymarkets/basic-price-search-engine @ 0.1.2
 * plentymarkets/beezup @ 1.0.0
+* plentymarkets/belboon @ 0.0.5
 * plentymarkets/bi @ v2.0.29
 * plentymarkets/billiger @ 1.0.0
 * plentymarkets/blog @ 1.0.8
