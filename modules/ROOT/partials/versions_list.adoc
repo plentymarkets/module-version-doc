@@ -71,6 +71,6 @@
 * plentymarkets/twenga @ 1.0.0
 * plentymarkets/validation @ v0.1.8
 * plentymarkets/warehouse @ v0.19.83
-* plentymarkets/webshop @ 0.30.14
+* plentymarkets/webshop @ 0.30.15
 * plentymarkets/wizard @ v2.7.1
 * plentymarkets/zalando @ v3.8.7
