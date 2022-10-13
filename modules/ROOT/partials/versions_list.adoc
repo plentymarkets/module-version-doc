@@ -80,5 +80,5 @@
 * plentymarkets/validation @ v0.1.10
 * plentymarkets/warehouse @ v0.22.0
 * plentymarkets/webshop @ dev-core-app/laravel9
-* plentymarkets/wizard @ dev-core-app/laravel9
+* plentymarkets/wizard @ v2.9.0
 * plentymarkets/zalando @ v3.8.20
