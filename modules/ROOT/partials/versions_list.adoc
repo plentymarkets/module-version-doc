@@ -75,6 +75,7 @@
 * plentymarkets/stock @ v0.2.9
 * plentymarkets/suggestion @ v1.1.2
 * plentymarkets/system-accounting @ v1.7.78
+* plentymarkets/todo @ v0.0.3
 * plentymarkets/tracdelight @ v1.0.0
 * plentymarkets/twenga @ 1.0.0
 * plentymarkets/validation @ v0.1.10
