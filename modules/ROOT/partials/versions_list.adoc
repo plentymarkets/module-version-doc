@@ -32,6 +32,7 @@
 * plentymarkets/ebay-fulfillment @ v1.8.0
 * plentymarkets/econda @ 1.0.0
 * plentymarkets/elastic-sync @ v1.53.3
+* plentymarkets/emag @ 0.0.2
 * plentymarkets/email-assistant @ v0.1.17
 * plentymarkets/etsy @ v0.0.25
 * plentymarkets/external-keyfigures @ 0.1.11
