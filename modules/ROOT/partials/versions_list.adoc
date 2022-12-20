@@ -78,6 +78,7 @@
 * plentymarkets/system-accounting @ v1.7.80
 * plentymarkets/todo @ v0.0.3
 * plentymarkets/tracdelight @ v1.0.0
+* plentymarkets/treepodia @ v1.0.0
 * plentymarkets/twenga @ 1.0.0
 * plentymarkets/validation @ v0.1.10
 * plentymarkets/warehouse @ v0.26.1
