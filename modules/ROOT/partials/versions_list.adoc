@@ -30,6 +30,7 @@
 * plentymarkets/data-purge @ v0.2.9
 * plentymarkets/document @ v1.25.1
 * plentymarkets/ebay @ v1.26.1
+* plentymarkets/ebay-digital-signature-php-sdk @ v0.0.4
 * plentymarkets/ebay-fulfillment @ v1.10.0
 * plentymarkets/econda @ 1.0.0
 * plentymarkets/elastic-sync @ v1.53.3
