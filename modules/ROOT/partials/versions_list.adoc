@@ -94,4 +94,4 @@
 * plentymarkets/warehouse @ v0.30.1
 * plentymarkets/webshop @ v0.42.27
 * plentymarkets/wizard @ v2.10.0
-* plentymarkets/zalando @ v4.2.2
+* plentymarkets/zalando @ v4.2.3
