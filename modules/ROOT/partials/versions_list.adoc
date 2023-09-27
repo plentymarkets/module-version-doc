@@ -52,6 +52,7 @@
 * plentymarkets/kupona @ v1.0.0
 * plentymarkets/listing @ v1.26.2
 * plentymarkets/live-shopping @ v1.1.5
+* plentymarkets/lookup-tables @ v0.1.2
 * plentymarkets/mail @ v0.22.6
 * plentymarkets/mail-templates @ v2.2.89
 * plentymarkets/mc-credentials @ v0.1.6
