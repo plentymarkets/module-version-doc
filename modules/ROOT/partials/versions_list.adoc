@@ -97,6 +97,6 @@
 * plentymarkets/validation @ v0.1.10
 * plentymarkets/voelkner @ v0.2.23
 * plentymarkets/warehouse @ v0.32.2
-* plentymarkets/webshop @ v0.54.20
+* plentymarkets/webshop @ v0.54.21
 * plentymarkets/wizard @ v2.10.1
 * plentymarkets/zalando @ v4.3.1
