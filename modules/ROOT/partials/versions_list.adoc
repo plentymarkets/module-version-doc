@@ -52,6 +52,7 @@
 * plentymarkets/kauflux @ 0.0.3
 * plentymarkets/kelkoo @ v1.1.0
 * plentymarkets/kupona @ v1.0.0
+* plentymarkets/layer-accounts @ v0.1.0
 * plentymarkets/listing @ v1.26.2
 * plentymarkets/live-shopping @ v1.1.5
 * plentymarkets/lookup-tables @ v0.1.5
