@@ -113,4 +113,4 @@
 * plentymarkets/webshop @ v0.98.4
 * plentymarkets/wizard @ v2.12.0
 * plentymarkets/xxxlutz @ v0.1.23
-* plentymarkets/zalando @ v4.6.4
+* plentymarkets/zalando @ v4.6.5
